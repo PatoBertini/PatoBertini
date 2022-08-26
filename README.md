@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PayeCocina web site](https://github.com/PatoBertini/payeCocina---Bertini.git)
 
-- 🌱 I’m currently learning **Boostrap, Sass, Javascript**
+- 🌱 I’m currently learning **React And Node js for the back-end**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PatoBertini](https://github.com/PatoBertini)
 
