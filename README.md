@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Patricio Bertini</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://elaborate-concha-dca086.netlify.app/)
+- 🔭 I’m currently working on [My Personal Portfolio](https://patricioportfolio.netlify.app/)
 
 - 🌱 I’m currently learning **React And Node js for the back-end**
 
